@@ -7,4 +7,4 @@
 ## 20180427
 github
 
-[정재석](https://github.com/jaeseokjeong/TIL/edit/master/README.md)
+[Statistics](https://www.youtube.com/watch?v=pYxNSUDSFH4)
