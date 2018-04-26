@@ -1,5 +1,7 @@
 ## 1.
-Following is a preview of the data frame df: 
+
+Following is a preview of the data frame df:
+
   x y  z
 1 A P  7
 2 A P  8
