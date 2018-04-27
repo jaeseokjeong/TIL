@@ -18,6 +18,7 @@ question :32 bit 64 bit?
 ## 20180427
 github
 
+pull and push?
 [Youtube Statistics](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 
 
