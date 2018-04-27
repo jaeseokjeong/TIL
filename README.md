@@ -21,5 +21,6 @@ github
 pull and push?
 [Youtube Statistics](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 
-
 읽는 사람이 편하도록 변수명 설정하기.
+
+R 공부해야할 것 - str_pad, gather/spread
